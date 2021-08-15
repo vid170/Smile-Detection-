@@ -9,7 +9,7 @@ This is a smile detector. It uses opencv and haar-cascades. It will recognize an
 `pip install opencv`
 
 #### Run Project:
- `python smile-detection.py`
+ `python smile_detection.py`
  
  
  Yay! Now your camera can finally recognize when you are smiling.
